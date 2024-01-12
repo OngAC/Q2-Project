@@ -1,0 +1,64 @@
+body {
+	background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url(https://a.cdn-hotels.com/gdcs/production138/d1824/ed0d5995-0902-43d1-9644-1aa7a1a27d81.jpg);
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+
+}
+
+.header {
+	background-color: rgba(255, 255, 255, 0.6);
+  	color: rgb(40, 75, 102);
+  	height: 150px-auto;
+  	padding: 15px;
+  	margin: 20px;
+  	margin-bottom: 100px;
+  	text-align: center;
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+}
+
+.Philippines {
+	background-color: rgba(255, 255, 255, 0.6);
+	color: rgba(51,	51,	51, 0.9);
+	text-align: center;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 100px;
+	padding: 20px;
+}
+
+.places {
+	border: 2px solid white;
+	display: flex;
+  	justify-content: center;
+  	flex-wrap: wrap;
+  	padding: 10px;
+  	margin-left: 40px;
+	margin-right: 40px;
+}
+
+.places img {
+	width: 350px;
+	height: 200px;
+}
+
+.listed {
+	background-color: rgba(255, 255, 255, 0.6);
+	width: 380px;
+	padding: 15px;
+	margin: 10px;
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+.listed h2 {
+	text-align: center;
+}
+
+.listed p {
+	text-align: justify;
+}
+
